@@ -22,6 +22,7 @@
     width: 624px;
     height: 201px;
     font-weight: 700;
+    padding-bottom: 25px;
 }
 
 .title-2 {
@@ -70,8 +71,22 @@ h4 {
 }
 
 .h-1 {
-    padding-bottom: 25px;
+    font-size: 20px;
+    font-weight: 700;
 }
+
+.paragrafo-t {
+    color: #C4170C;
+    font-weight: 500;
+}
+
+.paragrafo {
+    font-size: 14px;
+    font-weight: 400;
+    color: #2F3134;
+    width: 192px;
+}
+
 .column-2 {
     width: 625px;
 }
