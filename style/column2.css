@@ -30,6 +30,7 @@
 
 .font-s {
     font-size: 14px;
+    margin-bottom: 10px;
 }
 
 .column2-noticias img {
@@ -40,6 +41,7 @@
 
    #width-s {
     width: 217px;
+    margin-bottom: 40px;
    }
 
    #h-2 {
@@ -55,8 +57,20 @@
    #img-c2 {
     width: 240px;
     height: 128px;
+    margin-bottom: 10px;
    }
 
    #border-direita {
     border-right: 1px solid #EBEDEF;
+    padding-right: 25px;
+    margin-top: 30px;
+   }
+
+   #espacamento-2 {
+    padding-left: 25px;
+    margin-top: 12px;
+   }
+
+   #baixo-espaco {
+    margin-bottom: 40px;
    }
